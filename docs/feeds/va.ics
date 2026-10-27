@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Benefit Paydays//benefit-paydays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VA disability compensation & pension (Benefit Paydays, unoff
+ icial)
+X-PUBLISHED-TTL:P7D
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+BEGIN:VEVENT
+UID:va-2026-12-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for November 2026. Expected deposit date from pub
+ lished rules\; confirm with your agency. Independent site\, not affiliat
+ ed with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2026-12/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2026-12-31@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for December 2026. Expected deposit date from pub
+ lished rules\; confirm with your agency. Independent site\, not affiliat
+ ed with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2026-12/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-02-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for January 2027. Expected deposit date from publ
+ ished rules\; confirm with your agency. Independent site\, not affiliate
+ d with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-02/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-03-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for February 2027. Expected deposit date from pub
+ lished rules\; confirm with your agency. Independent site\, not affiliat
+ ed with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-03/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-04-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for March 2027. Expected deposit date from publis
+ hed rules\; confirm with your agency. Independent site\, not affiliated 
+ with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-04/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-04-30@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for April 2027. Expected deposit date from publis
+ hed rules\; confirm with your agency. Independent site\, not affiliated 
+ with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-04/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-06-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for May 2027. Expected deposit date from publishe
+ d rules\; confirm with your agency. Independent site\, not affiliated wi
+ th any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-06/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-07-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for June 2027. Expected deposit date from publish
+ ed rules\; confirm with your agency. Independent site\, not affiliated w
+ ith any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-07/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-07-30@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for July 2027. Expected deposit date from publish
+ ed rules\; confirm with your agency. Independent site\, not affiliated w
+ ith any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-07/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-09-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for August 2027. Expected deposit date from publi
+ shed rules\; confirm with your agency. Independent site\, not affiliated
+  with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-09/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-10-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for September 2027. Expected deposit date from pu
+ blished rules\; confirm with your agency. Independent site\, not affilia
+ ted with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-11-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for October 2027. Expected deposit date from publ
+ ished rules\; confirm with your agency. Independent site\, not affiliate
+ d with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-11/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-12-01@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for November 2027. Expected deposit date from pub
+ lished rules\; confirm with your agency. Independent site\, not affiliat
+ ed with any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-12/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2027-12-30@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:VA payment
+DESCRIPTION:VA benefits for December 2027. Expected deposit date from pub
+ lished rules\; confirm with your agency. Independent site\, not affiliat
+ ed with any government agency. Never share your SSN. Unconfirmed: may ar
+ rive Dec 31\, 2027.
+URL:https://j6-cloude.github.io/benefit-paydays/va-disability/2027-12/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

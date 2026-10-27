@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Benefit Paydays//benefit-paydays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Social Security, birthdays 1st–10th (Benefit Paydays, unoffi
+ cial)
+X-PUBLISHED-TTL:P7D
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+BEGIN:VEVENT
+UID:birthdays-1-10-2026-11-10@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Social Security payment
+DESCRIPTION:November 2026 payment. Expected deposit date from published r
+ ules\; confirm with your agency. Independent site\, not affiliated with 
+ any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2026-11/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2026-12-09@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Social Security payment
+DESCRIPTION:December 2026 payment. Expected deposit date from published r
+ ules\; confirm with your agency. Independent site\, not affiliated with 
+ any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2026-12/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-01-13@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Social Security payment
+DESCRIPTION:January 2027 payment. Expected deposit date from published ru
+ les\; confirm with your agency. Independent site\, not affiliated with a
+ ny government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-01/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-02-10@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Social Security payment
+DESCRIPTION:February 2027 payment. Expected deposit date from published r
+ ules\; confirm with your agency. Independent site\, not affiliated with 
+ any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-02/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-03-10@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Social Security payment
+DESCRIPTION:March 2027 payment. Expected deposit date from published rule
+ s\; confirm with your agency. Independent site\, not affiliated with any
+  government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-03/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-04-14@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Social Security payment
+DESCRIPTION:April 2027 payment. Expected deposit date from published rule
+ s\; confirm with your agency. Independent site\, not affiliated with any
+  government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-04/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-05-12@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Social Security payment
+DESCRIPTION:May 2027 payment. Expected deposit date from published rules\
+ ; confirm with your agency. Independent site\, not affiliated with any g
+ overnment agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-05/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-06-09@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Social Security payment
+DESCRIPTION:June 2027 payment. Expected deposit date from published rules
+ \; confirm with your agency. Independent site\, not affiliated with any 
+ government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-06/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-07-14@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Social Security payment
+DESCRIPTION:July 2027 payment. Expected deposit date from published rules
+ \; confirm with your agency. Independent site\, not affiliated with any 
+ government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-07/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-08-11@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Social Security payment
+DESCRIPTION:August 2027 payment. Expected deposit date from published rul
+ es\; confirm with your agency. Independent site\, not affiliated with an
+ y government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-08/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-09-08@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Social Security payment
+DESCRIPTION:September 2027 payment. Expected deposit date from published 
+ rules\; confirm with your agency. Independent site\, not affiliated with
+  any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-09/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-10-13@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:Social Security payment
+DESCRIPTION:October 2027 payment. Expected deposit date from published ru
+ les\; confirm with your agency. Independent site\, not affiliated with a
+ ny government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-10/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-11-10@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Social Security payment
+DESCRIPTION:November 2027 payment. Expected deposit date from published r
+ ules\; confirm with your agency. Independent site\, not affiliated with 
+ any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-11/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:birthdays-1-10-2027-12-08@benefit-paydays
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Social Security payment
+DESCRIPTION:December 2027 payment. Expected deposit date from published r
+ ules\; confirm with your agency. Independent site\, not affiliated with 
+ any government agency. Never share your SSN.
+URL:https://j6-cloude.github.io/benefit-paydays/social-security/2027-12/b
+ irthdays-1-10/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
