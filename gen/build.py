@@ -59,7 +59,10 @@ def page(path, title, desc, body, crumbs=None, jsonld=None, extra_head=""):
         bc = '<p class=muted>' + " › ".join('<a href="%s/%s">%s</a>' % (BASE, p, esc(n)) for n, p in crumbs[:-1]) + " › " + esc(crumbs[-1][0]) + "</p>"
     doc = f"""<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name=description content="{esc(desc)}"><link rel=canonical href="{url}">
-<meta property=og:title content="{esc(title)}"><meta property=og:description content="{esc(desc)}"><meta property=og:url content="{url}"><meta property=og:type content=website>
+<meta property=og:title content="{esc(title)}"><meta property=og:description content="{esc(desc)}"><meta property=og:url content="{url}"><meta property=og:type content=website><meta property=og:site_name content="Benefit Paydays">
+<meta property=og:image content="{BASE}/og-image.png"><meta property=og:image:width content=1200><meta property=og:image:height content=630><meta property=og:image:alt content="Benefit Paydays: independent payment-date calendar, not a government agency">
+<meta name=twitter:card content=summary_large_image><meta name=twitter:title content="{esc(title)}"><meta name=twitter:description content="{esc(desc)}"><meta name=twitter:image content="{BASE}/og-image.png">
+<link rel=icon href="{BASE}/favicon.svg" type="image/svg+xml"><link rel=icon href="{BASE}/favicon-32.png" type="image/png" sizes="32x32"><link rel=apple-touch-icon href="{BASE}/apple-touch-icon.png" sizes="180x180">
 <style>{CSS}</style>{ldh}{extra_head}</head><body>
 <header><a class=brand href="{BASE}/">Benefit<span>Paydays</span></a><nav><a href="{BASE}/">Next payment</a><a href="{BASE}/social-security/">Social Security</a><a href="{BASE}/ssi/">SSI</a><a href="{BASE}/va-disability/">VA</a><a href="{BASE}/snap/">SNAP</a><a href="{BASE}/cola-2027/">2027 COLA</a></nav></header>
 <main>{NOTICE}{bc}{body}</main>
@@ -277,6 +280,8 @@ def main():
     open(os.path.join(OUT, "sitemap.xml"), "w").write("\n".join(sm) + "\n")
     open(os.path.join(OUT, "robots.txt"), "w").write("User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n" % BASE)
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
+    st = os.path.join(os.path.dirname(__file__), "static")
+    for f in os.listdir(st): shutil.copy(os.path.join(st, f), os.path.join(OUT, f))
     print("pages:", len([p for p in PAGES if p != "404.html"]))
 
 if __name__ == "__main__":
